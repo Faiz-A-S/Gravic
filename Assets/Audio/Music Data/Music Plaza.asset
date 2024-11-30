@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4616b149ed64142a535e0bb1266962, type: 3}
+  m_Name: Music Plaza
+  m_EditorClassIdentifier: 
+  musicFile: {fileID: 8300000, guid: bd28df6611f8d3c4388c3c9017ae2090, type: 3}
+  whereToUse: Plaza

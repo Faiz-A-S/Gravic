@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "testgravic",
+  "private_key_id": "f5645e93d4c732b12482c7d431c00741dd00ae82",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDDb4Lol4ICqax/\nnO3v7cLwWRgyE55rp0YW3qm/tV+SlHfSDUHlZErB0k69XURYP7PveC0AlLwAF6Go\nkOi8qMqZLehtwYAVLTOyp0g1sfmgyZkxPx04WsXLyfmDJ+erztk4nRIQtWbYxrRB\nYV5yGkWTSrpw+esBuTCoNjH6xgeCky+BpYkq2VCcAenFwM1rsX7qEv5lwFv7bQf3\nQPeouOFid8M/dHm5coiWHI0Comr8ij8X6ETEaaMNo4UMbxGoc7BrhOQ+zAeyb5WB\nE1MMWBqblqDwxpABpMhhdZ9S6zWybma+GzMprgzbzaV1xRaigkzRT2aL5nF/G9+l\n1rvNwuB5AgMBAAECggEAEIifrC58Id5JoQKtWP/V/vgknUDuZThhrDfiZ7zwBNIx\naFh1h5LyZZ8ViPzp1ibuga76rKrIlF/rbduzitljSW36NMXa4H/CWMYA7IT948HG\nZ2WJ4u2AAA96X8OJnI37b8gPAhGcrbByybizcScClZVL/FiSToMkqAhstkTYWA4W\nXvs/kjZydI54PqHSXdUL1Zb9yPx/BcBxJE80ItURr/yckEMmrocfNumubGm+tJJH\nQEbHcqCgma9RHV45qS1CnQKB920fxRYJ6gVxytqLYbRLLFjXEJ6XMjDo+IiuVrVR\nVEaUjTbJyeT0n1hcdTxcmVQ+2v8ZAvWaEP8h7pkgIQKBgQD2oR4BST5ARH6ep8Br\nil1F1wMwg9JQHTEmFrr2slxACHipFg3R8XQXXFD0+Y3JSm1g/wkou5OCe5XDDnPo\nb7GxHVGAJtCWTUpjkcWwYzfchCrKib59fUL/eSTOf1LDR/6bTSI98InVR84X1qsr\nWHpRB8HFk63Xs7SyTw4XkLjIIQKBgQDK3HL7PYeGYfxs/HE3rULyU1M+3OmzLnpz\nmUYzeU9w9DeyQtr/FgGg6j6AtUBr0gfSJzTyN7utTATeATh4t/wzwcoAnIRzuQ/X\nDtQd6sM0bJFLkMbqNEmw6FthwSAFtOx4rYPgip1+9XPGhAcAyLKWrVfOQ/+xOAlz\nXgMd+WetWQKBgFn9Vf5wJDe9BlqLqSlUNk5qcu572vyCelGEj7m+QOzYanZ/5pEJ\nQivX8m5AtJyS/LAcvtHPB7bfsziWCHLydmrC4N8aypddIlyMbw66VUKwMxDuC8Ss\nNQsUv/pc+OzqUxuFnI3vO8vHxIpsOM67HP5+DxUxmogPOUqqj+DHXLUhAoGAFOWW\nlpjlAAvR8+whQYoAjnPU7HHXRRTxmjzcxWqmq00M+7j1VDeRHWFj5OBG7ZRqJ9TQ\nGG9zTsu46KGZjp3tReudgmidIEqc/htR8G8BgsH4SZ91TiTqvmWBHFXHla7oeRnu\nrs+4n55rObTZ/9Osyea7V80bZscN+itiCNFrQ6kCf3PCaswE9vQmyDp7Y0pABt8w\nR1NJiBExcHOC7p/Rw02gutTu2SeYS1E+QAnzIq5O9hd9emmQ8Pd3FAVtq/3XXMpf\nDjMz3qICuiPP3jzlj69JgsjucqP9kFJQ1PybK7GEPfd94b9AcINmzoFVSVg2aFhl\nPYZiJ6S1YAar6DZ4dFE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "testinggravic@testgravic.iam.gserviceaccount.com",
+  "client_id": "101578048986452107888",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testinggravic%40testgravic.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
